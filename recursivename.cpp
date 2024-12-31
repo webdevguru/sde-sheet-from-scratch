@@ -1,3 +1,6 @@
+//
+
+
 #include<bits/stdc++.h>
 using namespace std;
 void func(int i, int n){
